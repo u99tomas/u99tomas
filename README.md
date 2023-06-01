@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás Agú</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina ✈</h3>
 
-- 🌱 I’m currently learning **C#, .NET CORE, Blazor, React, Angular, Flutter and more**
-
-- 👨‍💻 All of my projects are available at [https://agu99tomas.github.io/Portfolio/](https://agu99tomas.github.io/Portfolio/)
+- 🌱 I’m currently learning **C#, .NET CORE, React, Python and more**
 
 - 📫 How to reach me **u99tomas@gmail.com**
 
